@@ -11,3 +11,6 @@
 
 ## 3，Ensemble Learning
 关于集成学习文件夹中的代码，详情请参考博客：Python机器学习笔记 集成学习总结  地址：https://www.cnblogs.com/wj-1314/p/10917286.html
+
+## 4，One Class SVM
+关于单样本分类文件夹中的代码，详情请参考博客：Python机器学习笔记：One Class SVM  地址：https://www.cnblogs.com/wj-1314/p/10701708.html
