@@ -9,7 +9,7 @@
 关于决策树文件夹中的数据和代码，详情请参考博客：python机器学习笔记：深入学习决策树算法原理  地址：https://www.cnblogs.com/wj-1314/p/9428494.html
                                               python机器学习笔记：ID3决策树算法实战     地址：https://www.cnblogs.com/wj-1314/p/10268650.html
 
-## 3，Naive Bayes
+## 3，K-NearestNeighbor（KNN）
 关于K近邻文件夹中的代码和数据，详情请参考博客：Python机器学习笔记：K-近邻（KNN）算法  地址：https://www.cnblogs.com/wj-1314/p/10291284.html
 
 ## 4，Naive Bayes
