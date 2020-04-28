@@ -15,9 +15,12 @@
 ## 4，Naive Bayes
 关于朴素贝叶斯文件夹中的代码，详情请参考博客：Python机器学习笔记：朴素贝叶斯算法  地址：https://www.cnblogs.com/wj-1314/p/10560870.html
 
-## 5，Ensemble Learning
+## 5，K-Means&DBSCAN
+关于K-Means&DBSCAN文件夹中的代码和数据，详情请参考博客：Python机器学习笔记：K-Means算法，DBSCAN算法  地址：https://www.cnblogs.com/wj-1314/p/12751033.html
+
+## 6，Ensemble Learning
 关于集成学习文件夹中的代码，详情请参考博客：Python机器学习笔记 集成学习总结  地址：https://www.cnblogs.com/wj-1314/p/10917286.html
 
-## 6，One Class SVM
+## 7，One Class SVM
 关于单样本分类文件夹中的代码，详情请参考博客：Python机器学习笔记：One Class SVM  地址：https://www.cnblogs.com/wj-1314/p/10701708.html
 
