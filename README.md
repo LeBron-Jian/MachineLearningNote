@@ -29,3 +29,6 @@
 
 ## 9，LDA
 关于LDA降维文件夹中的代码，详情请参考博客：Python机器学习笔记：线性判别分析（LDA）算法  地址：https://www.cnblogs.com/wj-1314/p/10234256.html
+
+## 10，EM（GMM）
+关于EM算法文件夹中的代码，详情请参考博客：python机器学习笔记：EM算法  地址：https://www.cnblogs.com/wj-1314/p/12856388.html
