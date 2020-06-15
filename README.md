@@ -32,3 +32,8 @@
 
 ## 10，EM（GMM）
 关于EM算法文件夹中的代码，详情请参考博客：python机器学习笔记：EM算法  地址：https://www.cnblogs.com/wj-1314/p/12856388.html
+
+## 11，SVM
+关于SVM算法文件夹中的代码，详情请参考博客：Python机器学习笔记：SVM（4）——sklearn实现  地址：https://www.cnblogs.com/wj-1314/p/9436710.html
+    
+  
