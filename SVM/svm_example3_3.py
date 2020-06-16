@@ -44,7 +44,7 @@ plot_dataset(X, y, [-1.5, 2.5, -1, 1.5])
 plt.title(r'$d=3, r=1, C=5$', fontsize=18)
 
 plt.subplot(122)
-plot_predictions(Poly_kernel_svm_clf, [-1.5, 2.5, -1, 1.5])
+plot_predictions(Poly_kernel_svm_clf_plus, [-1.5, 2.5, -1, 1.5])
 plot_dataset(X, y, [-1.5, 2.5, -1, 1.5])
 plt.title(r'$d=10, r=100, C=5$', fontsize=18)
 plt.show()
