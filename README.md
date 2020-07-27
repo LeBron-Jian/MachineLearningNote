@@ -40,4 +40,7 @@
 关于XGBoost算法文件夹中的代码，详情请参考博客：Python机器学习笔记：XgBoost算法  地址：https://www.cnblogs.com/wj-1314/p/9402324.html
 
 ## 13，IsolationForest
-关于IsolationForest算法文件夹中的代码，详情请参考博客：Python机器学习笔记：异常点检测算法——Isolation Forest  地址：https://www.cnblogs.com/wj-1314/p/10461816.html/p/9436710.html
+关于IsolationForest算法文件夹中的代码，详情请参考博客：Python机器学习笔记：异常点检测算法——Isolation Forest  地址：https://www.cnblogs.com/wj-1314/p/10461816.html
+
+## 14，RamdomForest
+关于RamdomForest算法文件夹中的代码，详情请参考博客：Python机器学习笔记：随机森林算法  地址：https://www.cnblogs.com/wj-1314/p/9628303.html
