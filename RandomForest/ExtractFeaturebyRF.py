@@ -10,6 +10,10 @@ url1.columns = ['Class label', 'Alcohol', 'Malic acid', 'Ash',
                 'Alcalinity of ash', 'Magnesium', 'Total phenols',
                 'Flavanoids', 'Nonflavanoid phenols', 'Proanthocyanins',
                 'Color intensity', 'Hue', 'OD280/OD315 of diluted wines', 'Proline']
+
+# 重要性： [0.10658906 0.02539968 0.01391619 0.03203319 0.02207807 0.0607176
+#  0.15094795 0.01464516 0.02235112 0.18248262 0.07824279 0.1319868
+#  0.15860977]
 # print(url1)
 
 # 查看几个标签
@@ -41,10 +45,17 @@ importances = forest.feature_importances_
 print("重要性：", importances)
 x_columns = url1.columns[1:]
 indices = np.argsort(importances)[::-1]
+x_columns_indices = []
 for f in range(x_train.shape[1]):
     # 对于最后需要逆序排序，我认为是做了类似决策树回溯的取值，从叶子收敛
     # 到根，根部重要程度高于叶子。
     print("%2d) %-*s %f" % (f + 1, 30, feat_labels[indices[f]], importances[indices[f]]))
+    x_columns_indices.append(feat_labels[indices[f]])
+
+print(x_columns_indices)
+print(x_columns.shape[0])
+print(x_columns)
+print(np.arange(x_columns.shape[0]))
 
 # 筛选变量（选择重要性比较高的变量）
 threshold = 0.15
@@ -60,5 +71,5 @@ plt.rcParams['font.sans-serif'] = ["SimHei"]
 plt.rcParams['axes.unicode_minus'] = False
 for i in range(x_columns.shape[0]):
     plt.bar(i, importances[indices[i]], color='orange', align='center')
-    plt.xticks(np.arange(x_columns.shape[0]), x_columns, rotation=90, fontsize=15)
+    plt.xticks(np.arange(x_columns.shape[0]), x_columns_indices, rotation=90, fontsize=15)
 plt.show()
