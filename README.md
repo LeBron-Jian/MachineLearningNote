@@ -1,5 +1,12 @@
 # MachineLearningNote
 
+## 因为下面所有的机器学习代码均使用了sklearn，这里也补充了一下Sklearn的学习博客：
+
+Python机器学习笔记：sklearn库的学习  地址：https://www.cnblogs.com/wj-1314/p/10179741.html
+Python机器学习笔记：使用sklearn做特征工程和数据挖掘  地址：https://www.cnblogs.com/wj-1314/p/9600298.html
+Python机器学习笔记：Grid SearchCV（网格搜索）  地址：https://www.cnblogs.com/wj-1314/p/10422159.html
+
+
 
 ## 1，logistic Regression 
 关于逻辑回归文件夹中的数据和代码，详情请参考博客：Python机器学习笔记：Logistic Regression  地址：https://www.cnblogs.com/wj-1314/p/10181876.html
