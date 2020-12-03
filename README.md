@@ -83,3 +83,9 @@
 关于RamdomForest算法文件夹中的代码，详情请参考博客：
 - Python机器学习笔记：随机森林算法  
     - 地址：https://www.cnblogs.com/wj-1314/p/9628303.html
+
+
+## 15，Local Outlier Factor(LOF)
+关于 Local Outlier Factor(LOF) 算法文件夹中的代码，详情请参考博客：
+- Python机器学习笔记：异常点检测算法——LOF（Local Outiler Factor） 
+    - 地址：https://www.cnblogs.com/wj-1314/p/14049195.html
