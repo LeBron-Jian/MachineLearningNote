@@ -89,3 +89,9 @@
 关于 Local Outlier Factor(LOF) 算法文件夹中的代码，详情请参考博客：
 - Python机器学习笔记：异常点检测算法——LOF（Local Outiler Factor） 
     - 地址：https://www.cnblogs.com/wj-1314/p/14049195.html
+
+
+## 16，SVD
+关于 SVD 算法文件夹中的代码，详情请参考博客：
+- Python机器学习笔记：奇异值分解（SVD）算法
+    - 地址：https://www.cnblogs.com/wj-1314/p/10304676.html
