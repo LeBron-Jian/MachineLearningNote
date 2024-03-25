@@ -55,7 +55,9 @@
 关于PCA降维算法文件夹中的代码，详情请参考博客：
 - Python机器学习笔记：主成分分析（PCA）算法  
     - 地址：https://www.cnblogs.com/wj-1314/p/8032780.html
-
+- Python机器学习笔记：使用scikit-learn工具进行PCA降维 
+    - 地址：https://www.cnblogs.com/wj-1314/p/10144700.html
+  
 ## 9，LDA
 关于LDA降维文件夹中的代码，详情请参考博客：
 - Python机器学习笔记：线性判别分析（LDA）算法  
