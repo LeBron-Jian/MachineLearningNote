@@ -23,7 +23,9 @@
     - 地址：https://www.cnblogs.com/wj-1314/p/9428494.html
 - python机器学习笔记：ID3决策树算法实战     
     - 地址：https://www.cnblogs.com/wj-1314/p/10268650.html
-
+- Python机器学习笔记：CART算法实战     
+    - 地址：https://www.cnblogs.com/wj-1314/p/10361935.html
+      
 ## 3，K-NearestNeighbor（KNN）
 关于K近邻文件夹中的代码和数据，详情请参考博客：
 - Python机器学习笔记：K-近邻（KNN）算法  
