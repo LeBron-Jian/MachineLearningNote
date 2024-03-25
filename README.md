@@ -68,6 +68,12 @@
 
 ## 11，SVM
 关于SVM算法文件夹中的代码，详情请参考博客：
+- Python机器学习笔记：SVM（1）——SVM概述
+    - 地址：https://www.cnblogs.com/wj-1314/p/9489427.html
+- Python机器学习笔记：SVM（2）——SVM核函数 
+    - 地址：https://www.cnblogs.com/wj-1314/p/12931799.html
+- Python机器学习笔记：SVM（3）——证明SVM  
+    - 地址：https://www.cnblogs.com/wj-1314/p/9436710.html
 - Python机器学习笔记：SVM（4）——sklearn实现  
     - 地址：https://www.cnblogs.com/wj-1314/p/9436710.html
     
